@@ -1,6 +1,7 @@
 #Awesome MacBook Seetup
 
 > A list of awesome Softwares, Application, Utilitys, Tools and Tricks for macOS.
+
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
 
@@ -9,7 +10,7 @@ MacOS High Sierra 10.13.1
 ## Table of Contents
 
 
-* [Resolve issues caused by changing the permissions of items in your home folder](https://support.apple.com/en-us/HT203538)
+* [Resolve issues caused by changing the permissions of items in your home folder](https://support.apple.com/en-us/HT203538)(#Links)
 
 * [How to Reset Permission in MacBook Pro / MacBook Air / MacBook](https://support.apple.com/en-us/HT203538)
 
@@ -35,7 +36,7 @@ MacOS High Sierra 10.13.1
 
 Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
 
-**[⬆ back to top](#applications)**
+**[⬆ back to top](#Links)**
 
 ## License
 
