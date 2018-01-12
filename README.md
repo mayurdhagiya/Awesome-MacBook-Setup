@@ -1,4 +1,9 @@
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="Awesome MacBook Setup">
+#Awesome MacBook Seetup
+
+> A list of awesome Softwares, Application, Utilitys, Tools and Tricks for macOS.
+
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
+
 
 MacOS High Sierra 10.13.1
 
