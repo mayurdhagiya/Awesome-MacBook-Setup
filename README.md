@@ -7,10 +7,10 @@
 
 MacOS High Sierra 10.13.1
 
-## Table of Contents
+## [Table of Contents](#Links)
 
 
-* [Resolve issues caused by changing the permissions of items in your home folder](https://support.apple.com/en-us/HT203538)(#Links)
+* [Resolve issues caused by changing the permissions of items in your home folder](https://support.apple.com/en-us/HT203538)
 
 * [How to Reset Permission in MacBook Pro / MacBook Air / MacBook](https://support.apple.com/en-us/HT203538)
 
