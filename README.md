@@ -23,3 +23,15 @@ MacOS High Sierra 10.13.1
 * [How to Completely Uninstall App from MacBook Pro / MacBook Air / MacBook](https://mac-how-to.gadgethacks.com/how-to/youre-uninstalling-mac-apps-wrong-heres-remove-them-completely-0162513/)
 
 * [How to create a bootable installer for macOS in MacBook Pro / MacBook Air / MacBook Easiest Way](https://macdaddy.io/install-disk-creator/)
+
+## Contribute
+
+Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+
+**[⬆ back to top](#applications)**
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
