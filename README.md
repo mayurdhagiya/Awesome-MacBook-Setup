@@ -1,4 +1,4 @@
-# Awesome-MacBook-Setup
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="Awesome MacBook Setup">
 
 MacOS High Sierra 10.13.1
 
