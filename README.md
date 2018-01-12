@@ -2,7 +2,6 @@
 #Awesome MacBook Seetup
 
 > A list of awesome Softwares, Application, Utilitys, Tools and Tricks for macOS.
-
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
 
