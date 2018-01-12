@@ -15,5 +15,7 @@ MacOS High Sierra 10.13.1
 
 * [How to create a bootable installer for macOS in MacBook Pro / MacBook Air / MacBook Offical Way With Picture](https://www.imore.com/how-create-bootable-installer-mac-operating-system-high-sierra)
 
-* [How to Disable Gatekeeper in macOS Sierra in MacBook Pro / MacBook Air / MacBook Offical Way With Video](https://www.youtube.com/watch?v=-g-cp-j-lF0)
+* [How to Disable Gatekeeper in macOS Sierra in MacBook Pro / MacBook Air / MacBook Offical Way With Video	](https://www.youtube.com/watch?v=-g-cp-j-lF0)
+
+* [Change the Default Save Location of Screenshots in Mac OS X for a Cleaner Desktop in MacBook Pro / MacBook Air / MacBook](https://mac-how-to.gadgethacks.com/how-to/change-default-save-location-screenshots-mac-os-x-for-cleaner-desktop-0160154/	)
 
