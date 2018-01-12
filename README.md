@@ -11,6 +11,9 @@ MacOS High Sierra 10.13.1
 * [How to open apps from unidentified developers on macOS Sierra in MacBook Pro / MacBook Air / MacBook](https://www.imore.com/how-open-apps-unidentified-developers-mac)
 
 
-* [How to create a bootable installer for macOS in MacBook Pro / MacBook Air / MacBook](https://support.apple.com/en-us/HT201372)
+* [How to create a bootable installer for macOS in MacBook Pro / MacBook Air / MacBook Offical Way](https://support.apple.com/en-us/HT201372)
 
+* [How to create a bootable installer for macOS in MacBook Pro / MacBook Air / MacBook Offical Way With Picture](https://www.imore.com/how-create-bootable-installer-mac-operating-system-high-sierra)
+
+* [How to Disable Gatekeeper in macOS Sierra in MacBook Pro / MacBook Air / MacBook Offical Way With Video](https://www.youtube.com/watch?v=-g-cp-j-lF0)
 
