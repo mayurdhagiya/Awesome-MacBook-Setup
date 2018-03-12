@@ -31,6 +31,8 @@ MacOS High Sierra 10.13.1
 * [How to Completely Uninstall App from MacBook Pro / MacBook Air / MacBook](https://mac-how-to.gadgethacks.com/how-to/youre-uninstalling-mac-apps-wrong-heres-remove-them-completely-0162513/)
 
 * [How to create a bootable installer for macOS in MacBook Pro / MacBook Air / MacBook Easiest Way](https://macdaddy.io/install-disk-creator/)
+* How to Open Any App [Replace appname to Keynote]
+xattr -cr /Applications/Appname
 
 ## Contribute
 
