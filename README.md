@@ -7,7 +7,7 @@
 
 MacOS High Sierra 10.13.1
 
-## [Table of Contents](#Links)
+## [Table of Contents]
 
 
 * [Resolve issues caused by changing the permissions of items in your home folder](https://support.apple.com/en-us/HT203538)
