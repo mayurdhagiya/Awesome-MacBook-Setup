@@ -34,6 +34,10 @@ MacOS High Sierra 10.13.1
 * How to Open Any App [Replace appname to Keynote]
 xattr -cr /Applications/Appname
 
+* Clean MacBook KeyBoard [by Apple] (https://support.apple.com/en-au/HT205662)
+* Install MacOS Mojave Beta [Link] (http://appleseeddownload.apple.com/macOS/10.14/macOSPublicBetaAccessUtility.dmg) 
+* MacOS Mojave Install Guide [Link] (https://beta.apple.com/sp/betaprogram/redemption#macos)
+
 ## Contribute
 
 Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
@@ -45,3 +49,5 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
